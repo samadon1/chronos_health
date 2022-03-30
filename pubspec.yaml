@@ -57,7 +57,7 @@ dependencies:
   syncfusion_flutter_charts: ^19.4.53
   sensors: ^2.0.3
 
-  firebase_ml_vision: ^0.9.7
+  # firebase_ml_vision: ^0.9.7
 
  
   clipboard: ^0.1.2+8

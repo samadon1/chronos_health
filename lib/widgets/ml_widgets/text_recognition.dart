@@ -66,7 +66,7 @@ class _TextRecognitionWidgetState extends State<TextRecognitionWidget> {
       context: context,
     );
 
-    final text = await FirebaseMLApi.recogniseText(image!);
+    // final text = await FirebaseMLApi.recogniseText(image!);
     setText(text);
 
     Navigator.of(context).pop();
